@@ -21,7 +21,7 @@ They provide information based on the actions performed by users, playing an imp
 
 - ``` tail -f cron```
 
-## How to see "error in log file?
+## How to see "error" in log file?
 
 - ```grep -i "error" error_log```
 - ```egrep -i "error|warning" error_log```
